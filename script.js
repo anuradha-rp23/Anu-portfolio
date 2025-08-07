@@ -8,7 +8,7 @@ window.onscroll= function(){
         nav.classList.remove("header-scrolled");
     }
 }
-//hide nav
+//hide nav 
 
 let navBar = document.querySelectorAll(".nav-link");
 let navCollapse = document.querySelector(".navbar-collapse.collapse");
