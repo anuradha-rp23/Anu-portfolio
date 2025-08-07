@@ -29,7 +29,7 @@
         margin: auto;
     }
     .project-wrapper .card{
-        min-height: 400px;
+        min-height: 250px;
     }
 }
 /* max-width:767 */
@@ -54,6 +54,6 @@
         font-size: 13px;
     }
     .project-wrapper .card{
-        min-height: 500px;
+        min-height: 250px;
     }
 }
