@@ -7,9 +7,9 @@
 }
 :root{
     /* Background-color */
-    --primary-color: #FD4766;
+    --primary-color: #f83455;
     --secondary-color:#0e1525;
-    --bg-dark-blue:#031020;
+    --bg-dark-blue:#0f2846;
     --bg-white:#fff;
     --gray-color:#c6c9d8bf;
     --gradient-color: linear-gradient(-224deg, var(--primary-color) 0, #337DFF 100%);
